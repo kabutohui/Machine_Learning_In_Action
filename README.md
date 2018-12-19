@@ -1,7 +1,6 @@
 # Machine Learning In Action
 
-    这个仓库的主要目的是用于存储《Machine Learning In Action》一书中的代码的注释。源代码是运行在Python2.6上的。我将此代码在Python3的环境中进行更改和
-注释。下面列出目录，以方便大家参考。
+    这个仓库的主要目的是用于存储《Machine Learning In Action》一书中的代码的注释。源代码是运行在Python2.6上的。我将此代码在Python3的环境中进行更改和注释。下面列出目录，以方便大家参考。
 
 ## 环境说明
 IDE ： Pycharm
